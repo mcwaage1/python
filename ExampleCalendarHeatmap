@@ -1,5 +1,5 @@
-'''Example calendar heatmap
-'''
+###Example calendar heatmap
+
 
 import datetime as dt
 import matplotlib.pyplot as plt
